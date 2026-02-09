@@ -1,5 +1,7 @@
 # Here is a new update by DaquitrahDaniels
 
+# Here is another update by DaquitrahDaniels
+
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
