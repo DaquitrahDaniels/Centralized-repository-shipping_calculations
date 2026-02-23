@@ -1,4 +1,4 @@
-# Here is a new update by DaquitrahDaniels
+# Here is a new update by DaquitrahDaniels.
 
 # Shipping Cost Calculator
 
